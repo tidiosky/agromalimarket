@@ -975,7 +975,7 @@
             },
             "require": {
                 "doctrine/dbal": "2.*",
-                "laravel/framework": "~5.5",
+                "laravel/framework": "6.20.14",
                 "php": ">=7.0.0",
                 "symfony/dom-crawler": "~3.1|~4.0"
             },
